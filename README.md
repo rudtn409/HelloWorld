@@ -1,6 +1,6 @@
 <h1>HelloWorld팀<h1>
 
-# Helloinu
+# 프로젝트 Helloinu
 ## 개발목표
 
 <p align="justify">
