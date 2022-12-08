@@ -28,9 +28,10 @@ SW & TOOL : mysql, arcore, unity, googlemaps
 여러 지도들을 살펴보면 캠퍼스 내부에 대한 정보 미제공
 </p>
 
-## 아키텍처
+## 아키텍처 
   <p align="center">
   <br>
-  <img src="./images/arch.jpeg">
+  <img src="./image/arch.png">
   <br>
+    
 </p>
