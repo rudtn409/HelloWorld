@@ -10,8 +10,9 @@
 <br>
 
 ## 개발범위
+  <p align="justify">
 필요 dataset : 궁금할만 내용에 대한 정보 ex)학과,축제, 입시요강, 장학금, 식당, 주변 놀곳, 등록,성적,재수강에 대한 시스템 등등
-
+</p>
 SW & TOOL : mysql, arcore, unity, googlemaps
 ## 사용 시나리오
   App 실행 ->1.근처 건물,장소에 대한 간단한정보 2.메뉴 표시
